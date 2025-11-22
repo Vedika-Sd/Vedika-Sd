@@ -27,75 +27,14 @@ I work daily toward becoming a **better engineer**, driven by curiosity and focu
 
 ---
 
-## 🛠 Tech Stack
-
-### **👩‍💻 Programming**
-- Python  
-- Java (basic)
-
-### **🤖 AI / ML**
-- Scikit-learn • Pandas • NumPy  
-- TensorFlow • Keras  
-- LLMs (Gemini, OpenAI, WatsonX)  
-- NLP (NLTK, basic transformers)
-
-### **🧠 AI System Development**
-- Prompt Engineering  
-- LangChain  
-- Retrieval-Augmented Generation (RAG)  
-- Chatbot Development
-
-### **🌐 Backend & Deployment**
-- Flask • FastAPI  
-- Docker  
-- AWS (basics)  
-- Streamlit  
-- MongoDB • MySQL
-
-### **🎨 Frontend**
-- HTML • CSS  
-- Streamlit UI  
-- Basic React
-
----
-
-## ⭐ Featured Projects
-
-### 🚚 **Krushna Dudh Sangh – Vehicle Routr Management Software**  
-Volunteer developer project built for a loacal well known dairy business.  
-Real deployment • Real users • Real constraints.
-
----
-
-### 📊 **Smart Crop Prediction and Advisory System (Research Project)**  
-Published ML research achieving **89% accuracy**.  
-Used by agriculture students and local communities.
-
----
-
-### 🤖 **StartupSarthi CA Agent**  
-Developed using IBM WatsonX Orchestrate.  
-Automates CA workflows like tax deadline reminders, invoice management, task automation
-- Currently working on this project to make it really useful
-
----
-
-### 🙌 **CollaborativeCrafts – Real-World Digital Solutions**  
-A collection of real projects built for local businesses.  
-Focused on practical impact, clean UI, and implementing AI in everyday tasks.
-
----
-
-### 🧠 **ChillBot – Student Companion Chatbot**  
-A mental-health & productivity chatbot built using Flask + Streamlit.  
-Includes streak tracking, alarms, and student-support features.  
-Hackathon project (Team Lead).
-
----
-
-### 🤖 **LearnAI – Intent-Based Student Guidance Chatbot**  
-Built using NLTK + custom dataset + ML models.  
-Developed independently during IBM/Edunet internship.
+### 🛠 Tech Stack
+- 🧑‍💻 **Languages:** Python | Java (basic)
+- 🤖 **ML/AI:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP, LLMs (Gemini, OpenAI, WatsonX)
+- 🧠 **AI Systems:** Prompt Engineering | LangChain | RAG | Chatbots
+- 🌐 **Backend:** FastAPI | Flask | Streamlit
+- 🐳 **DevOps/Cloud:** Docker | AWS (basic)
+- 🗄️ **Databases:** MongoDB | MySQL
+- 🎨 **Frontend:** HTML | CSS | Streamlit UI | Basic React
 
 ---
 
@@ -105,13 +44,6 @@ Developed independently during IBM/Edunet internship.
 - 🌟 **Top 10 – AASHA AI Hackathon**  
 - 📝 Published ML research in Agriculture  
 - 🤝 Applied AI to solve small real-world problems locally, promoting awareness & practical impact  
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [https://www.linkedin.com/in/vedika-sardeshmukh](https://www.linkedin.com/in/vedika-sardeshmukh-663b46287/)  
-- **Kaggle:** [https://www.kaggle.com/vedika-sd  ](https://www.kaggle.com/vedikasd)
 
 ---
 
