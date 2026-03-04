@@ -8,7 +8,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  B.Tech CSE – AI & ML  │  CGPA 9.0  │  Applied AI  │  Open to Internships 2026  │
+│  B.Tech CSE – AI & ML  │  CGPA 9.12  │  Applied AI  │  Open to Internships 2026  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
