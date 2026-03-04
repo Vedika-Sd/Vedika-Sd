@@ -121,7 +121,7 @@ apps & APIs
 > An agentic AI system that acts as a Chartered Accountant for Indian MSMEs and startups — automating bookkeeping, GST compliance, financial reports, and offering a multilingual chatbot in Hindi + English.
 
 ```
-IBM WatsonX Orchestrate  ·  Gemini API  ·  MongoDB  ·  Python ADK  ·  Custom Tool Packages
+IBM WatsonX Orchestrate  · IBM Cloud ·  MongoDB  ·  Custom Tool Packages
 ```
 
 **What makes it different:** Built using IBM's Agent Development Kit with 5 modular Python tools (bookkeeping, reminders, report generation, financial calculator, multilingual chat) — all orchestrated through WatsonX. Not a chatbot wrapper — a real agentic workflow.
